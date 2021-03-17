@@ -13,5 +13,5 @@ E ele ira executar em conjunto todos os *arquivos .c e .h*;
 
 * 3º Dica: 
 
-Para que o programe aparece por mais tempo no terminal, coloque na main um **system pause** ou um **scanf**;
+Para que o programe aparece por mais tempo no terminal, coloque na **main.c** um **system pause** ou um **scanf**;
 
